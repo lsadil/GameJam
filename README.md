@@ -8,8 +8,11 @@
 Help the dolls escape from the Doll Master's old toy box. But are you willing to sacrifice some of them ?
 # Controls
 Movements : ZQSD
+
 Jump : SPACE
+
 Sacrifice : K
+
 Select another doll : LEFT CLICK
 
 # Team: 
