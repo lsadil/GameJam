@@ -1,5 +1,6 @@
-# GameJam
-[I'm an inline-style link with title](https://edenthesiren.itch.io/doll-master "Doll Master")
+# GameJam :  [Tavern Game Jam Autumn '23](https://itch.io/jam/tavern-games-autumn23)
+
+[Doll Master](https://edenthesiren.itch.io/doll-master "Doll Master")
 
 
 # Description
